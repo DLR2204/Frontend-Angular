@@ -1,0 +1,34 @@
+
+1,0	-------------------> Ascii/unicode...									
+										
+				
+										
+										computer lang
+					scripting lang						programming lang
+					
+			html ,css ,js ,ts,.....
+			
+	
+		HTML(Hyper Text Markup Lang):- 
+		----
+		
+		.html/.htm
+		
+		tags :- <predefined word>  ------> 2 types 
+		
+		(1)pair /container :- <tag></tag> 
+		
+		(2)Single/Empty :- <tag> or </tag>
+		
+		webpage  ------->htm/html
+		
+		website :- collection of webpages
+		
+		
+		<tag class="values">Statement</tag>    ------------->element 
+		
+		
+		Lists :- 
+		
+		(1)Unordered list :- bullets
+		(2)Ordered List :- Numbering
