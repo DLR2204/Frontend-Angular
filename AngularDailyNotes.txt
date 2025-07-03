@@ -22,7 +22,16 @@
 		
 		webpage  ------->htm/html
 		
-		website :- collection of webpages
+		website :- collection of webpages-3 types
+		
+				static  webpage :- changes are stagnant
+				
+				dynamic webpage :- changes will happens regularly
+				
+				server webpage  :- data from the static/dynamic webpages will gets stored here
+		
+					
+		
 		
 		
 		<tag class="values">Statement</tag>    ------------->element 
@@ -32,3 +41,26 @@
 		
 		(1)Unordered list :- bullets
 		(2)Ordered List :- Numbering
+		
+		
+										css:-
+										-----
+		
+		(1)Inline styling :- injecting the style attribute in the opening tag
+		
+		(2)Internal styling:-injecting <style> tag inside the <head> tag
+		
+		(3)External styling :- attaching .css file to .html file
+		
+		
+		selector:- 
+		--------
+		
+		
+		(1)tag name  :- h1,h2,
+		
+		(2)id name   :- #id name
+		
+		(3)class name :- .class name
+		
+		(4)universal :- *
