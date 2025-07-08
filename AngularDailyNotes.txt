@@ -64,3 +64,46 @@
 		(3)class name :- .class name
 		
 		(4)universal :- *
+		
+		javascript:- To develop the frontend,backend,ai & ml
+		-----------
+		
+		(1)To create dynamic webpages
+		
+		(2)To change the html content
+		
+		(3)To change the html attributes
+		
+		(4)To change the css styling
+		
+		(5)To hide the data
+		
+		(6)To create interactive webpages
+		
+		identifiers 
+
+		variables :- var  varname;----------->declaration
+		
+					var variablename = value; ------------>intialization
+		
+		datatypes
+		
+		(1)internal scripting:- <script> inside <head> or <body>
+		
+		(2)external scripting:- attaching .js file to the html doc
+		
+		flow control statements:- 
+		----------------------------
+		conditional statements:- 
+		
+		(1)If 
+		
+		(2)Switch 
+		
+		Loops :- 
+		
+		(1)while
+		
+		(2)Do-while
+		
+		(3)For 
