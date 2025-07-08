@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Variables</title>
+    <script>
+       function check(){
+
+        var a,b,c,d,e,f;
+
+        document.write("<h1>Before Initialization</h1>")
+        document.write("<br>Type of a is :- ",typeof a);
+        document.write("<br>Type of b is :- ",typeof b);
+        document.write("<br>Type of c is :- ",typeof c);
+        document.write("<br>Type of d is :- ",typeof d);
+        document.write("<br>Type of e is :- ",typeof e);
+        document.write("<br>Type of f is :- ",typeof f);
+
+        a=10,b=3.14,c="hello",d=true,e=[1,"apple",true,'c'],f={"a":10,"b":20,"c":"hello"}
+
+        
+        document.write("<h1>After Initialization</h1>")
+        document.write("<br>Type of a is :- ",typeof a);
+        document.write("<br>Type of b is :- ",typeof b);
+        document.write("<br>Type of c is :- ",typeof c);
+        document.write("<br>Type of d is :- ",typeof d);
+        document.write("<br>Type of e is :- ",typeof e);
+        document.write("<br>Type of f is :- ",typeof f);
+
+       } 
+
+
+    </script>
+</head>
+<body>
+    <h1>Variables in Javascript</h1>
+    <button type="button" onclick='check()'>Check</button>
+
+</body>
+</html>
